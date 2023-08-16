@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title style="background-color:Tomato>WAR Web Service</title>
+	<title style="background-color:green">WAR Web Service</title>
 	<link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
