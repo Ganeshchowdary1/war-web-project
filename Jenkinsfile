@@ -1,7 +1,4 @@
 node {
-  tools { 
-        maven 'Apache Maven 3.6.3' 
-    }
   stage('SCM') {
     checkout scm
   }
